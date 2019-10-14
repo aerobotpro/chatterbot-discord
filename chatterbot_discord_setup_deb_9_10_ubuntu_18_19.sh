@@ -22,8 +22,8 @@ echo ""
 echo ""
 apt install screen
 mkdir ~/ChatterBot/
-mv ~/chatterbot-discord-master/Dialog.dat ~/ChatterBot/Dialog.dat
 mv ~/chatterbot-discord-master/ima_bot.py ~/ChatterBot/ima_bot.py
+mv ~/chatterbot-discord-master/Dialog.dat ~/ChatterBot/Dialog.dat
 mv ~/chatterbot-discord-master/config.ini ~/ChatterBot/config.ini
 cd ~/ChatterBot/ && chmod 777 *
 echo ""
