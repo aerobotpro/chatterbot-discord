@@ -7,6 +7,7 @@ I will continue to update the api/these docs!
 
 ## Basic Setup
 > drop Master to root
+<br>
 > run shell script if applicable or extract to root
 > Install Python3.6+ & pip
 > pip3 install ChatterBot discord
