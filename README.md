@@ -16,7 +16,7 @@ I will continue to update the api/these docs!
 > Install Python3.6+ & pip
 <br>
 
-> pip3 install ChatterBot discord
+> pip3 install ChatterBot discord && pip3 install chatterbot-corpus
 <br>
 
 > Add Token to config.ini
