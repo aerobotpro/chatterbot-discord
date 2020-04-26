@@ -24,7 +24,7 @@ class log:
 @client.event
 async def on_ready():
     log.log('')
-    print('-\n[Ok] - Use CTRL + a + d To Detach Screen! | Succesfully logged in as {0.user}'.format(client))
+    print('-\n[Ok] - Succesfully logged in as {0.user}'.format(client))
     activity = discord.Activity(name=rich_presence, type=discord.ActivityType.watching)
     await client.change_presence(activity=activity)
     
