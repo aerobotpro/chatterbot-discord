@@ -5,8 +5,8 @@ from datetime import datetime
 import discord
 
 config = list(open("config.ini", "r").read().split())
-token = config[1]
-dataset = config[8]
+token = config[0]
+dataset = config[1]
 
 rich_presence = "this server, waiting for conversation."
 
